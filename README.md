@@ -2,7 +2,7 @@
 
 Frontend Developer
 
-
+---
 
 ### 🛠 Tech Stack
 
@@ -37,7 +37,7 @@ Frontend Developer
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 
-
+---
 
 
 **📫 Contact Me**
