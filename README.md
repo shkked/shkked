@@ -55,7 +55,9 @@
 ## 📫 Contact Me
 
   Email: **pletnev735@gmail.com**
-  Telegram: @shkked
+  
+  Telegram: **[@shkked](https://t.me/shkked)**
+  
 ---
 
 ⭐ Open to interesting projects and collaboration
