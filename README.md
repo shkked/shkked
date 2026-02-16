@@ -8,10 +8,6 @@
 💻 Frontend developer focused on building modern web applications and complex user interfaces.  
 🚀 Passionate about data-heavy UI, realtime features, and scalable frontend architecture.
 
-- 🔭 Currently working with **Vue ecosystem & React**
-- 🧠 Interested in **frontend architecture, performance optimization and AI/LLM integration**
-- 🌱 Continuously improving my **TypeScript and React skills**
-
 ---
 
 ## 🛠 Tech Stack
@@ -53,31 +49,6 @@
 ✔ Worked on role-based access systems  
 ✔ Created reusable UI component libraries  
 ✔ Integrated frontend with backend services via REST API  
-
----
-
-## ♟ Pet Projects
-
-### Chess App (React)
-
-Educational chess application focused on implementing game logic and component architecture.
-
-Features:
-
-- Chess board with full piece movement logic  
-- Move validation system  
-- Game state management  
-- Component-based UI architecture  
-
-This project helped me deepen my understanding of React architecture and complex UI logic.
-
----
-
-## 📚 Currently Learning
-
-- Advanced frontend architecture patterns  
-- Performance optimization techniques  
-- AI / LLM integration in web applications  
 
 ---
 
