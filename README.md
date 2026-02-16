@@ -1,6 +1,6 @@
 **Hi there 👋, I'm Kirill**
 
-Frontend Developer
+Frontend Developer since 2023
 
 ---
 
