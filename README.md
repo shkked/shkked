@@ -21,7 +21,7 @@ Frontend Developer since 2023
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
 ![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
+![React Context](https://img.shields.io/badge/React_Context-20232A?style=for-the-badge&logo=react-context&logoColor=61DAFB)
 **Backend Interaction & Tools**
 
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
