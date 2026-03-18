@@ -33,5 +33,3 @@ Frontend Developer since 2023
 **📫 Contact Me**
 
   Email: **pletnev735@gmail.com**
-  
-  Telegram: **[@shkked](https://t.me/shkked)**
